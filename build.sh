@@ -1,0 +1,1 @@
+gcc radian_trx.c kbhit.c -o radian_trx -lwiringPi -lpthread -Wall -mcpu=arm1176jzf-s -mfpu=vfp -march=native -mtune=native
